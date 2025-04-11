@@ -26,7 +26,7 @@ This project combines Power BI visuals, DAX logic, and Excel macros for a powerf
 
 ## 📥 Data Source
 
-📁 [`Case - DE.xlsm`](Case - DE.xlsm)
+📁 [`Case - DE.xlsm`](https://github.com/FarhanAli-9803/powerbi-CSRD-dashboard/blob/main/Case%20-%20DE.xlsm)
 
 This Excel file contains:
 
